@@ -1,27 +1,19 @@
-# AI Development Policy Census
+# Census-001 Starter Pack
 
-A research project collecting and analyzing public AI development guides.
+This package contains the first collected raw AI development guide files.
 
-## Collected Files
+## Upload target
 
-- CLAUDE.md
-- AGENTS.md
-- .cursorrules
-- .cursor/rules/*
-- copilot-instructions.md
+Copy the contents of this package into the root of:
 
-## Goal
+`yjburon/ai-development-policy-census`
 
-Identify common development policies used with AI coding agents.
+## Included
 
-## Research Areas
+- `raw/census-001/index.csv`
+- collected raw guide files
+- `reports/census-001.md`
 
-- Architecture Rules
-- Security Rules
-- Testing Rules
-- Workflow Rules
-- AI Behavior Rules
+## Principle
 
-## Status
-
-Census-001 (In Progress)
+Raw files should remain unmodified. Normalization and classification will be added later under `normalized/` and `taxonomy/`.

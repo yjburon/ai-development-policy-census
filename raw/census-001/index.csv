@@ -1,0 +1,7 @@
+id,repo,file_type,file_name,source_url,local_path,status
+1,anthropics/claude-code-action,CLAUDE,CLAUDE.md,https://raw.githubusercontent.com/anthropics/claude-code-action/main/CLAUDE.md,raw/census-001/anthropics-claude-code-action/CLAUDE.md,collected
+2,openai/codex,AGENTS,AGENTS.md,https://raw.githubusercontent.com/openai/codex/main/AGENTS.md,raw/census-001/openai-codex/AGENTS.md,collected
+3,openai/openai-agents-python,AGENTS,AGENTS.md,https://raw.githubusercontent.com/openai/openai-agents-python/main/AGENTS.md,raw/census-001/openai-openai-agents-python/AGENTS.md,collected
+4,github/awesome-copilot,COPILOT_INDEX,README.instructions.md,https://raw.githubusercontent.com/github/awesome-copilot/main/docs/README.instructions.md,raw/census-001/github-awesome-copilot/README.instructions.md,collected
+5,github/awesome-copilot,COPILOT_INSTRUCTIONS,agent-safety.instructions.md,https://raw.githubusercontent.com/github/awesome-copilot/main/instructions/agent-safety.instructions.md,raw/census-001/github-awesome-copilot/agent-safety.instructions.md,collected
+6,github/awesome-copilot,COPILOT_INSTRUCTIONS,aspnet-rest-apis.instructions.md,https://raw.githubusercontent.com/github/awesome-copilot/main/instructions/aspnet-rest-apis.instructions.md,raw/census-001/github-awesome-copilot/aspnet-rest-apis.instructions.md,collected

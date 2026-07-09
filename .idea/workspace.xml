@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e5d7773-8f06-4111-8adf-6392f17d5b45" name="Changes" comment="디렉토리생성" />
+    <list default="true" id="9e5d7773-8f06-4111-8adf-6392f17d5b45" name="Changes" comment="디렉토리생성">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1783557216296</updated>
       <workItem from="1783557217602" duration="749000" />
+      <workItem from="1783557991894" duration="469000" />
     </task>
     <task id="LOCAL-00001" summary="디렉토리생성">
       <created>1783557718371</created>
